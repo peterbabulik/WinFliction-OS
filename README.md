@@ -4,7 +4,11 @@
 
 A delightfully frustrating parody operating system that captures the true essence of modern computing - endless updates, intrusive notifications, and AI "assistance" you never asked for.
 
-![WinFliction OS](https://picsum.photos/id/10/1920/1080)
+Here is the link in Markdown format. You can copy and paste this directly into your `README.md`.
+
+
+[Live Demo](https://peterbabulik.github.io/WinFliction-OS/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?style=for-the-badge&logo=github)](https://peterbabulik.github.io/WinFliction-OS/)
 
 ## Features
 
