@@ -43,6 +43,10 @@ A delightfully frustrating parody operating system that captures the true essenc
 **Prerequisites:** Node.js
 
 ```bash
+# Clone the repository
+git clone https://github.com/peterbabulik/WinFliction-OS.git
+cd WinFliction-OS
+
 # Install dependencies
 npm install
 
