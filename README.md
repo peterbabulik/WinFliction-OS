@@ -7,9 +7,6 @@ A delightfully frustrating parody operating system that captures the true essenc
 ## Demo
 [Live Demo](https://peterbabulik.github.io/WinFliction-OS/)
 
-
-[GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?style=for-the-badge&logo=github)](https://peterbabulik.github.io/WinFliction-OS/)
-
 ## Features
 
 ### 🖥️ Authentic Desktop Experience
